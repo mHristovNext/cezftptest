@@ -1,0 +1,13 @@
+{
+	"workflowApiVersion": "1.1",
+	"metaData": {
+		"icon": "ftp.png",
+		"category": "custom"
+	},
+	"type": "REST",
+	"userInterfaces": {
+        "configInspector": {
+            "size": "medium"
+        }
+    } 
+}
